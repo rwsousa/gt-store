@@ -1,6 +1,7 @@
+import CarouselComponent from "../components/Carousel";
+
 export default function Home() {
     return (
-        <h1>Hello, world!</h1>
-    )
-
-};
+        <CarouselComponent/>
+    );
+}
